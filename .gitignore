@@ -1,0 +1,9 @@
+out/
+.vs/
+*.ilk
+*.pdb
+*.obj
+*.db
+*.ipch
+Builds/
+build/
